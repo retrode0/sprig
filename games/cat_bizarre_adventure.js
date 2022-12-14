@@ -1,6 +1,6 @@
 /*
 @title: cat_bizarre_adventure
-@author: dejeh
+@author: alex_b
 */
 
 /* LORE!!!
